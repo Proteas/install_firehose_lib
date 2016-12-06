@@ -10,7 +10,10 @@ SDK_ROOT=`xcodebuild -version -sdk macosx Path`
 echo "Target SDK Path: ${SDK_ROOT}"
 # ================================================================ #
 
-LIBDISPATCH_DIR_NAME="libdispatch-703.1.4"
+# LIBDISPATCH_DIR_NAME="libdispatch-703.1.4"
+LIBDISPATCH_DIR_NAME="libdispatch-703.20.1"
+echo "Install: ${LIBDISPATCH_DIR_NAME}"
+# ================================================================ #
 
 TARGET_HEADER_DIR="${SDK_ROOT}/usr/local/include/kernel/os"
 TARGET_LIB_DIR="${SDK_ROOT}/usr/local/lib/kernel"
