@@ -14,7 +14,9 @@ echo "Target SDK Path: ${SDK_ROOT}"
 # LIBDISPATCH_DIR_NAME="libdispatch-703.20.1"
 # LIBDISPATCH_DIR_NAME="libdispatch-703.30.5"
 # LIBDISPATCH_DIR_NAME="libdispatch-703.50.37"
-LIBDISPATCH_DIR_NAME="libdispatch-913.1.6"
+# LIBDISPATCH_DIR_NAME="libdispatch-913.1.6"
+LIBDISPATCH_DIR_NAME="libdispatch-913.20.5"
+LIBDISPATCH_DIR_NAME="libdispatch-913.30.4"
 
 echo "Install: ${LIBDISPATCH_DIR_NAME}"
 # ================================================================ #
