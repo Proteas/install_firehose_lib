@@ -7,4 +7,4 @@ check out the code, and run install.sh:
 ./install-firehose.sh
 ```
 
-then build xnu-4903.221.2 with Xcode-v9.4.1.
+then build xnu-4903.221.2 with Xcode-v10.1.
